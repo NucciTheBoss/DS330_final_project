@@ -1,3 +1,7 @@
+# Note from Author
+
+> Archiving this repository as I am no longer working on this project, however, I am keeping it around because it excellently details how to port bind services running inside a Singularity/Apptainer container to your local machine.
+
 # DS330_final_project
 Visualizing some Spotify data!
 
